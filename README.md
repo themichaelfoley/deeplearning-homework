@@ -1,8 +1,8 @@
 # deeplearning-homework
 
-View the ["Fear and Greed Index"]() predictor notebook code.
+View the ["Fear and Greed Index"](https://github.com/themichaelfoley/deeplearning-homework/blob/main/Files/Starter_Code/lstm_stock_predictor_fng.ipynb) predictor notebook code.
 
-View the ["Closing Prices"]() predictor notebook code.
+View the ["Closing Prices"](https://github.com/themichaelfoley/deeplearning-homework/blob/main/Files/Starter_Code/lstm_stock_predictor_closing.ipynb) predictor notebook code.
 
 
 
